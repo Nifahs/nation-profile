@@ -1,0 +1,16 @@
+.allCategory{
+    font-weight:bold;
+}
+.Description{
+    border:1px solid lightgrey;
+    border-radius: 5px;
+    box-shadow: 0 0 10px grey;
+    margin: 30px;
+    padding:20px;
+}
+
+.profilePic{
+    box-shadow: 0 0 10px grey;
+    margin: 30px;
+   
+}
